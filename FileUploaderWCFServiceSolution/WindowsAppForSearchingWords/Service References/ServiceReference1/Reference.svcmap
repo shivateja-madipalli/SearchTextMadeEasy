@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="e93bba0b-2de8-44a1-8ece-de93b069322d" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:55860/FileUploader.svc?wsdl" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="FileUploader.xsd" MetadataType="Schema" ID="4bd3d885-491d-44e4-aadb-cfbb4ff2fa7f" SourceId="1" SourceUrl="http://localhost:55860/FileUploader.svc?xsd=xsd1" />
+    <MetadataFile FileName="FileUploader.wsdl" MetadataType="Wsdl" ID="1b35a89d-e5a2-4c86-965d-98e6842e9c99" SourceId="1" SourceUrl="http://localhost:55860/FileUploader.svc?wsdl" />
+    <MetadataFile FileName="FileUploader1.xsd" MetadataType="Schema" ID="8b038279-5633-4a44-8fa1-c895cd6e4309" SourceId="1" SourceUrl="http://localhost:55860/FileUploader.svc?xsd=xsd2" />
+    <MetadataFile FileName="FileUploader2.xsd" MetadataType="Schema" ID="4eda575b-aae6-404a-a33d-715db1c03a6c" SourceId="1" SourceUrl="http://localhost:55860/FileUploader.svc?xsd=xsd0" />
+    <MetadataFile FileName="FileUploader3.xsd" MetadataType="Schema" ID="1f649540-cddb-46a8-be8b-6acc4ccf80d9" SourceId="1" SourceUrl="http://localhost:55860/FileUploader.svc?xsd=xsd4" />
+    <MetadataFile FileName="FileUploader4.xsd" MetadataType="Schema" ID="5315d249-9399-4175-8997-d89630adea70" SourceId="1" SourceUrl="http://localhost:55860/FileUploader.svc?xsd=xsd3" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

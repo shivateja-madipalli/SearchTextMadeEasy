@@ -1,0 +1,12 @@
+D:\C# Practice\New Project\ClassLibrary1\BasicWCF\bin\BasicWCF.dll.config
+D:\C# Practice\New Project\ClassLibrary1\BasicWCF\bin\BasicWCF.dll
+D:\C# Practice\New Project\ClassLibrary1\BasicWCF\bin\BasicWCF.pdb
+D:\C# Practice\New Project\ClassLibrary1\BasicWCF\bin\Json.dll
+D:\C# Practice\New Project\ClassLibrary1\BasicWCF\bin\Newtonsoft.Json.dll
+D:\C# Practice\New Project\ClassLibrary1\BasicWCF\bin\WindowsAppForSearchingWords.exe
+D:\C# Practice\New Project\ClassLibrary1\BasicWCF\bin\WindowsAppForSearchingWords.pdb
+D:\C# Practice\New Project\ClassLibrary1\BasicWCF\bin\Json.pdb
+D:\C# Practice\New Project\ClassLibrary1\BasicWCF\bin\Newtonsoft.Json.xml
+D:\C# Practice\New Project\ClassLibrary1\BasicWCF\obj\Debug\BasicWCF.csprojResolveAssemblyReference.cache
+D:\C# Practice\New Project\ClassLibrary1\BasicWCF\obj\Debug\BasicWCF.dll
+D:\C# Practice\New Project\ClassLibrary1\BasicWCF\obj\Debug\BasicWCF.pdb

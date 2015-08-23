@@ -1,0 +1,13 @@
+D:\C# Practice\New Project\ClassLibrary1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\C# Practice\New Project\ClassLibrary1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\C# Practice\New Project\ClassLibrary1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\C# Practice\New Project\ClassLibrary1\WindowsFormsApplication1\bin\Debug\Json.dll
+D:\C# Practice\New Project\ClassLibrary1\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.dll
+D:\C# Practice\New Project\ClassLibrary1\WindowsFormsApplication1\bin\Debug\Json.pdb
+D:\C# Practice\New Project\ClassLibrary1\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.xml
+D:\C# Practice\New Project\ClassLibrary1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\C# Practice\New Project\ClassLibrary1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\C# Practice\New Project\ClassLibrary1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\C# Practice\New Project\ClassLibrary1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\C# Practice\New Project\ClassLibrary1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\C# Practice\New Project\ClassLibrary1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache

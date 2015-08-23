@@ -1,0 +1,9 @@
+D:\C# Practice\New Project\ClassLibrary1\WindowsAppForSearchingWords\bin\Debug\WindowsAppForSearchingWords.exe.config
+D:\C# Practice\New Project\ClassLibrary1\WindowsAppForSearchingWords\bin\Debug\WindowsAppForSearchingWords.exe
+D:\C# Practice\New Project\ClassLibrary1\WindowsAppForSearchingWords\bin\Debug\WindowsAppForSearchingWords.pdb
+D:\C# Practice\New Project\ClassLibrary1\WindowsAppForSearchingWords\obj\Debug\WindowsAppForSearchingWords.SearchBoxForm.resources
+D:\C# Practice\New Project\ClassLibrary1\WindowsAppForSearchingWords\obj\Debug\WindowsAppForSearchingWords.Properties.Resources.resources
+D:\C# Practice\New Project\ClassLibrary1\WindowsAppForSearchingWords\obj\Debug\WindowsAppForSearchingWords.csproj.GenerateResource.Cache
+D:\C# Practice\New Project\ClassLibrary1\WindowsAppForSearchingWords\obj\Debug\WindowsAppForSearchingWords.exe
+D:\C# Practice\New Project\ClassLibrary1\WindowsAppForSearchingWords\obj\Debug\WindowsAppForSearchingWords.pdb
+D:\C# Practice\New Project\ClassLibrary1\WindowsAppForSearchingWords\obj\Debug\WindowsAppForSearchingWords.csprojResolveAssemblyReference.cache

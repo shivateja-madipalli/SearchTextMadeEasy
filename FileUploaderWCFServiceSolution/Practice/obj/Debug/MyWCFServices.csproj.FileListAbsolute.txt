@@ -1,0 +1,5 @@
+D:\C# Practice\New Project\ClassLibrary1\ClassLibrary1\bin\Debug\MyWCFService.dll
+D:\C# Practice\New Project\ClassLibrary1\ClassLibrary1\bin\Debug\MyWCFService.pdb
+D:\C# Practice\New Project\ClassLibrary1\ClassLibrary1\obj\Debug\MyWCFServices.csprojResolveAssemblyReference.cache
+D:\C# Practice\New Project\ClassLibrary1\ClassLibrary1\obj\Debug\MyWCFService.dll
+D:\C# Practice\New Project\ClassLibrary1\ClassLibrary1\obj\Debug\MyWCFService.pdb
